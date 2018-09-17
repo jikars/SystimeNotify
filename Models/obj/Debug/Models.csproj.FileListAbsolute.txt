@@ -1,0 +1,6 @@
+D:\Systime\SystimeNotificationModule\ModuleNotification\Models\bin\Debug\Models.dll
+D:\Systime\SystimeNotificationModule\ModuleNotification\Models\bin\Debug\Models.pdb
+D:\Systime\SystimeNotificationModule\ModuleNotification\Models\obj\Debug\Models.csprojAssemblyReference.cache
+D:\Systime\SystimeNotificationModule\ModuleNotification\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\Systime\SystimeNotificationModule\ModuleNotification\Models\obj\Debug\Models.dll
+D:\Systime\SystimeNotificationModule\ModuleNotification\Models\obj\Debug\Models.pdb

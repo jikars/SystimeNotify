@@ -1,0 +1,6 @@
+D:\Systime\SystimeNotificationModule\ModuleNotification\SchemaDataBase\obj\Debug\SchemaDataBase.csprojAssemblyReference.cache
+D:\Systime\SystimeNotificationModule\ModuleNotification\SchemaDataBase\obj\Debug\SchemaDataBase.csproj.CoreCompileInputs.cache
+D:\Systime\SystimeNotificationModule\ModuleNotification\SchemaDataBase\bin\Debug\SchemaDataBase.dll
+D:\Systime\SystimeNotificationModule\ModuleNotification\SchemaDataBase\bin\Debug\SchemaDataBase.pdb
+D:\Systime\SystimeNotificationModule\ModuleNotification\SchemaDataBase\obj\Debug\SchemaDataBase.dll
+D:\Systime\SystimeNotificationModule\ModuleNotification\SchemaDataBase\obj\Debug\SchemaDataBase.pdb
